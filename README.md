@@ -1,4 +1,4 @@
-# How to implement move image(s) from point A to B in x seconds using LOVE 2D game framework.
+# How to implement move image(s) from point A to B in x sec using LOVE 2D game framework.
 
 The framework provides basic graphic draw functions for example draw image at point A.
 But, more frequently need to implement move image(s) from point A to B in a given time.
