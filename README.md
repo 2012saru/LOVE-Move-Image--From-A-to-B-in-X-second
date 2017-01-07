@@ -5,6 +5,6 @@ But, more frequently a game developer has to implement move image(s) from point 
 
 This project demonstrates how to do it.
 
-If possible please leave a comment if copy and past a code from here.
+If possible please leave a comment when reusing the code from here.
 
 ![Alt Text](https://github.com/2012saru/Move-Image-From-A-to-B-in-X-second/blob/master/rec.gif)
